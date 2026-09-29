@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+*.env
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Media & Temporary recording outputs
+videos/
+lofi_track.wav
+
+# IDE & OS
+.DS_Store
+.idea/
+.vscode/
